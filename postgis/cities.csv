@@ -1,0 +1,11 @@
+,id,name,country,latitude,longitude,population
+0,1,Bombo,UGA,0.5833,32.5333,75000
+1,2,Fort Portal,UGA,0.671,30.275,42670
+2,3,Potenza,ITA,40.642,15.799,69060
+3,4,Campobasso,ITA,41.563,14.656,50762
+4,5,Aosta,ITA,45.737,7.315,34062
+5,6,Mariehamn,ALD,60.097,19.949,10682
+6,7,Ramallah,PSE,31.90294,35.20621,24599
+7,8,Vatican City,VAT,41.90001,12.44781,832
+8,9,Poitier,FRA,46.58329,0.33328,85960
+9,10,Clermont-Ferrand,FRA,45.77998,3.08001,233050
